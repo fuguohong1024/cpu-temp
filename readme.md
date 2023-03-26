@@ -1,0 +1,1 @@
+[openhardwaremonitor](https://openhardwaremonitor.org/files/openhardwaremonitor-v0.9.5.zip)
